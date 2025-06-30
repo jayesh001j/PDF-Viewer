@@ -28,7 +28,7 @@ A lightweight Android app that scans and lists all PDF files from the device's *
 
 
   <a href="./assets/demo.mp4">
-    <img vid="https://github.com/user-attachments/assets/ae0aac35-7d0d-4946-9881-c12510460b5c" width="22%" style="margin-right: 2%;">
+    <img video="https://github.com/user-attachments/assets/ae0aac35-7d0d-4946-9881-c12510460b5c" width="22%" style="margin-right: 2%;">
   </a>
 
   <img src="https://github.com/user-attachments/assets/720db366-b05b-45f4-84b4-5e493771f452" width="22%" style="margin-right: 2%;">
