@@ -21,7 +21,7 @@ A lightweight Android app that scans and lists all PDF files from the device's *
 
 
 (
-## 📱 App Preview
+## 📷 Screenshots
 
 <p align="start">
   <!-- Clickable video thumbnail -->
